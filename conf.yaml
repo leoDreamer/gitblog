@@ -8,7 +8,10 @@ enableCache: true
 highlight: true
 mathjax: false
 katex: false
-youyan:
+gitId:
+gitSecret:
+gitRepo:
+gitUser:
 baiduAnalytics:
 keywords: GitBlog,博客,Markdown博客,jockchou
 description: >
